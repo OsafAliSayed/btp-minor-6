@@ -1,0 +1,2 @@
+- [ ] Make AleXNet Algorithm for CICIDS 2017 dataset
+- [ ] Download and integrate dataset
